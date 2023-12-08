@@ -15,12 +15,12 @@ This repository contains information, code and data related to the Lester projec
 
 If you find this repository useful for your research, please cite the original publication:
 
-@article{rtous2024lester,
-  title={Lester: Rotoscope Animation Through Video Object Segmentation and Tracking},
-  author={Ruben Tous},
-  journal={arXiv preprint arXiv:TODO},
-  year={2024}
-}
+	@article{rtous2024lester,
+	  title={Lester: Rotoscope Animation Through Video Object Segmentation and Tracking},
+	  author={Ruben Tous},
+	  journal={arXiv preprint arXiv:TODO},
+	  year={2024}
+	}
 
 ## 3. Results
 
@@ -29,7 +29,7 @@ Own videos:
 - Video 1
 	- Id: fvd_1
 	- Source: test/91oFLFG8UNS.mp4 
-	- [input](/results/topgun/result.mp4?raw=true)
+	- [input](/results/fvd1/result.mp4?raw=true)
 	- [result](/results/topgun/result.mp4?raw=true)
 
 YouTube videos:
@@ -45,13 +45,19 @@ Videos from the Fashion Video Dataset of the CV Lab of the University of British
 - Video 1
 	- Id: fvd_1
 	- Source: test/91oFLFG8UNS.mp4 
-	- [input](/results/topgun/result.mp4?raw=true)
-	- [result](/results/topgun/result.mp4?raw=true)
+	- [input](/results/fvd1/footage.mp4?raw=true)
+	- [result](/results/fvd1/out_final.mp4?raw=true)
+<p align="center">
+  <img src="/results/fvd1/out.gif" width="200" />
+</p>
 - Video 2
 	- Id: fvd_2
 	- Source: test/91uY9usoa5S.mp4
 	- [input](/results/topgun/result.mp4?raw=true)
 	- [result](/results/topgun/result.mp4?raw=true)
+<p align="center">
+  <img src="/results/fvd1/out.gif" width="200" />
+</p>
 - Video 3
 	- Id: fvd_3
 	- Source: test/A1gga724uoS.mp4
