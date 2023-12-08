@@ -6,7 +6,7 @@ This repository contains information, code and data related to the Lester projec
 
 <!--![](/data/test1/result_dual.gif)-->
 
-<p float="center">
+<p float="right">
   <img src="img/out.gif" width="200" />
 </p>
 
