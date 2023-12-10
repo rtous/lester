@@ -93,7 +93,7 @@ YouTube videos:
 	- [result](/results/youtube7/result.mp4?raw=true)
 
 <p align="center">
-  <img src="/results/youtube7/out.gif" width="200" />
+  <img src="/results/youtube7/out.gif" width="100" />
 </p>
 
 - Video 8
@@ -135,7 +135,7 @@ Videos from the Fashion Video Dataset of the CV Lab of the University of British
 	- [result](/results/fvd1/out_final.mp4?raw=true)
 
 <p align="center">
-  <img src="/results/fvd1/out.gif" width="200" />
+  <img src="/results/fvd1/out.gif" width="100" />
 </p>
 
 - Video 12
@@ -145,7 +145,7 @@ Videos from the Fashion Video Dataset of the CV Lab of the University of British
 	- [result](/results/fvd2/result.mp4?raw=true)
 
 <p align="center">
-  <img src="/results/fvd2/out.gif" width="200" />
+  <img src="/results/fvd2/out.gif" width="100" />
 </p>
 
 - Video 13
@@ -155,7 +155,7 @@ Videos from the Fashion Video Dataset of the CV Lab of the University of British
 	- [result](/results/fvd3/result.mp4?raw=true)
 
 <p align="center">
-  <img src="/results/fvd3/out.gif" width="200" />
+  <img src="/results/fvd3/out.gif" width="100" />
 </p>
 
 - Video 14
@@ -165,7 +165,7 @@ Videos from the Fashion Video Dataset of the CV Lab of the University of British
 	- [result](/results/fvd4/result.mp4?raw=true)
 
 <p align="center">
-  <img src="/results/fvd4/out.gif" width="200" />
+  <img src="/results/fvd4/out.gif" width="100" />
 </p>
 
 - Video 15
@@ -175,7 +175,7 @@ Videos from the Fashion Video Dataset of the CV Lab of the University of British
 	- [result](/results/fvd5/result.mp4?raw=true)
 
 <p align="center">
-  <img src="/results/fvd5/out.gif" width="200" />
+  <img src="/results/fvd5/out.gif" width="100" />
 </p>
 
 Videos from the UCF101 Human Actions dataset:
