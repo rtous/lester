@@ -83,7 +83,7 @@ YouTube videos:
 	- [result](/results/youtube6/result.mp4?raw=true)
 
 <p align="center">
-  <img src="/results/youtube5/out.gif" width="200" />
+  <img src="/results/youtube6/out.gif" width="200" />
 </p>
 
 - Video 2
@@ -94,6 +94,36 @@ YouTube videos:
 
 <p align="center">
   <img src="/results/youtube7/out.gif" width="200" />
+</p>
+
+- Video 2
+	- Id: youtube8
+	- Source: YouTube
+	- [input](/results/youtube8/result.mp4?raw=true)
+	- [result](/results/youtube8/result.mp4?raw=true)
+
+<p align="center">
+  <img src="/results/youtube8/out.gif" width="200" />
+</p>
+
+- Video 2
+	- Id: youtube9
+	- Source: YouTube
+	- [input](/results/youtube9/result.mp4?raw=true)
+	- [result](/results/youtube9/result.mp4?raw=true)
+
+<p align="center">
+  <img src="/results/youtube9/out.gif" width="200" />
+</p>
+
+- Video 2
+	- Id: youtube10
+	- Source: YouTube
+	- [input](/results/youtube10/result.mp4?raw=true)
+	- [result](/results/youtube10/result.mp4?raw=true)
+
+<p align="center">
+  <img src="/results/youtube10/out.gif" width="200" />
 </p>
 
 Videos from the Fashion Video Dataset of the CV Lab of the University of British Columbia:
