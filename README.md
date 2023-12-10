@@ -24,18 +24,6 @@ If you find this repository useful for your research, please cite the original p
 
 ## 3. Results
 
-Own videos:
-
-- Video 1
-	- Id: ruben2
-	- Source: Authors 
-	- [input](/results/ruben2/result.mp4?raw=true)
-	- [result](/results/ruben2/result.mp4?raw=true)
-
-<p align="center">
-  <img src="/results/ruben2/out.gif" width="200" />
-</p>
-
 YouTube videos:
 
 - Video 1
@@ -86,6 +74,26 @@ YouTube videos:
 
 <p align="center">
   <img src="/results/youtube5/out.gif" width="200" />
+</p>
+
+- Video 2
+	- Id: youtube6
+	- Source: YouTube
+	- [input](/results/youtube6/result.mp4?raw=true)
+	- [result](/results/youtube6/result.mp4?raw=true)
+
+<p align="center">
+  <img src="/results/youtube5/out.gif" width="200" />
+</p>
+
+- Video 2
+	- Id: youtube7
+	- Source: YouTube
+	- [input](/results/youtube7/result.mp4?raw=true)
+	- [result](/results/youtube7/result.mp4?raw=true)
+
+<p align="center">
+  <img src="/results/youtube7/out.gif" width="200" />
 </p>
 
 Videos from the Fashion Video Dataset of the CV Lab of the University of British Columbia:
