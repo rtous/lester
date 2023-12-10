@@ -46,7 +46,7 @@ YouTube videos:
   <img src="/results/youtube2/out.gif" width="200" />
 </p>
 
-- Video 2
+- Video 3
 	- Id: youtube3
 	- Source: YouTube
 	- [input](/results/youtube3/result.mp4?raw=true)
@@ -56,7 +56,7 @@ YouTube videos:
   <img src="/results/youtube3/out.gif" width="200" />
 </p>
 
-- Video 2
+- Video 4
 	- Id: youtube4
 	- Source: YouTube
 	- [input](/results/youtube4/result.mp4?raw=true)
@@ -66,7 +66,7 @@ YouTube videos:
   <img src="/results/youtube4/out.gif" width="200" />
 </p>
 
-- Video 2
+- Video 5
 	- Id: youtube5
 	- Source: YouTube
 	- [input](/results/youtube5/result.mp4?raw=true)
@@ -76,7 +76,7 @@ YouTube videos:
   <img src="/results/youtube5/out.gif" width="200" />
 </p>
 
-- Video 2
+- Video 6
 	- Id: youtube6
 	- Source: YouTube
 	- [input](/results/youtube6/result.mp4?raw=true)
@@ -86,7 +86,7 @@ YouTube videos:
   <img src="/results/youtube6/out.gif" width="200" />
 </p>
 
-- Video 2
+- Video 7
 	- Id: youtube7
 	- Source: YouTube
 	- [input](/results/youtube7/result.mp4?raw=true)
@@ -96,7 +96,7 @@ YouTube videos:
   <img src="/results/youtube7/out.gif" width="200" />
 </p>
 
-- Video 2
+- Video 8
 	- Id: youtube8
 	- Source: YouTube
 	- [input](/results/youtube8/result.mp4?raw=true)
@@ -106,7 +106,7 @@ YouTube videos:
   <img src="/results/youtube8/out.gif" width="200" />
 </p>
 
-- Video 2
+- Video 9
 	- Id: youtube9
 	- Source: YouTube
 	- [input](/results/youtube9/result.mp4?raw=true)
@@ -116,7 +116,7 @@ YouTube videos:
   <img src="/results/youtube9/out.gif" width="200" />
 </p>
 
-- Video 2
+- Video 10
 	- Id: youtube10
 	- Source: YouTube
 	- [input](/results/youtube10/result.mp4?raw=true)
@@ -128,7 +128,7 @@ YouTube videos:
 
 Videos from the Fashion Video Dataset of the CV Lab of the University of British Columbia:
 
-- Video 1
+- Video 11
 	- Id: fvd_1
 	- Source: test/91oFLFG8UNS.mp4 
 	- [input](/results/fvd1/footage.mp4?raw=true)
@@ -138,7 +138,7 @@ Videos from the Fashion Video Dataset of the CV Lab of the University of British
   <img src="/results/fvd1/out.gif" width="200" />
 </p>
 
-- Video 2
+- Video 12
 	- Id: fvd_2
 	- Source: test/91uY9usoa5S.mp4
 	- [input](/results/fvd2/result.mp4?raw=true)
@@ -148,7 +148,7 @@ Videos from the Fashion Video Dataset of the CV Lab of the University of British
   <img src="/results/fvd2/out.gif" width="200" />
 </p>
 
-- Video 3
+- Video 13
 	- Id: fvd_3
 	- Source: test/A1gga724uoS.mp4
 	- [input](/results/fvd3/result.mp4?raw=true)
@@ -158,7 +158,7 @@ Videos from the Fashion Video Dataset of the CV Lab of the University of British
   <img src="/results/fvd3/out.gif" width="200" />
 </p>
 
-- Video 4
+- Video 14
 	- Id: fvd_4
 	- Source: test/A1rJWpLlTwS.mp4
 	- [input](/results/fvd4/result.mp4?raw=true)
@@ -168,7 +168,7 @@ Videos from the Fashion Video Dataset of the CV Lab of the University of British
   <img src="/results/fvd4/out.gif" width="200" />
 </p>
 
-- Video 5
+- Video 15
 	- Id: fvd_5
 	- Source: test/A1VF4yftLZS.mp4
 	- [input](/results/fvd5/result.mp4?raw=true)
@@ -180,29 +180,54 @@ Videos from the Fashion Video Dataset of the CV Lab of the University of British
 
 Videos from the UCF101 Human Actions dataset:
 
-- Video 6
+- Video 16
 	- Id: ucf101_1
 	- Source: UCF101/v_PlayingGuitar_g20_c03.avi
-	- [input](/results/topgun/result.mp4?raw=true)
-	- [result](/results/topgun/result.mp4?raw=true)
-- Video 7
-	- Id: ucf101_1
+	- [input](/results/topucf101_1gun/result.mp4?raw=true)
+	- [result](/results/ucf101_1/result.mp4?raw=true)
+
+<p align="center">
+  <img src="/results/ucf101_1/out.gif" width="200" />
+</p>
+
+- Video 17
+	- Id: ucf101_2
 	- Source: UCF101/v_PlayingGuitar_g20_c03.avi
-	- [input](/results/topgun/result.mp4?raw=true)
-	- [result](/results/topgun/result.mp4?raw=true)
-- Video 8
-	- Id: ucf101_1
+	- [input](/results/ucf101_2/result.mp4?raw=true)
+	- [result](/results/ucf101_2/result.mp4?raw=true)
+
+<p align="center">
+  <img src="/results/ucf101_2/out.gif" width="200" />
+</p>
+
+- Video 18
+	- Id: ucf101_3
 	- Source: UCF101/v_PlayingGuitar_g20_c03.avi
-	- [input](/results/topgun/result.mp4?raw=true)
-	- [result](/results/topgun/result.mp4?raw=true)
-- Video 9
-	- Id: ucf101_1
+	- [input](/results/ucf101_3/result.mp4?raw=true)
+	- [result](/results/ucf101_3/result.mp4?raw=true)
+
+
+<p align="center">
+  <img src="/results/ucf101_3/out.gif" width="200" />
+</p>
+
+- Video 19
+	- Id: ucf101_4
 	- Source: UCF101/v_PlayingGuitar_g20_c03.avi
-	- [input](/results/topgun/result.mp4?raw=true)
-	- [result](/results/topgun/result.mp4?raw=true)
-- Video 10
-	- Id: ucf101_1
+	- [input](/results/ucf101_4/result.mp4?raw=true)
+	- [result](/results/ucf101_4/result.mp4?raw=true)
+
+<p align="center">
+  <img src="/results/ucf101_4/out.gif" width="200" />
+</p>
+
+- Video 20
+	- Id: ucf101_5
 	- Source: UCF101/v_PlayingGuitar_g20_c03.avi
-	- [input](/results/topgun/result.mp4?raw=true)
-	- [result](/results/topgun/result.mp4?raw=true)
+	- [input](/results/ucf101_5/result.mp4?raw=true)
+	- [result](/results/ucf101_5/result.mp4?raw=true)
+
+<p align="center">
+  <img src="/results/ucf101_5/out.gif" width="200" />
+</p>
 
