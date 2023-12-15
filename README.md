@@ -182,8 +182,8 @@ Videos from the UCF101 Human Actions dataset:
 
 - Video 16
 	- Id: ucf101_1
-	- Source: UCF101/v_PlayingGuitar_g20_c03.avi
-	- [input](/results/topucf101_1gun/result.mp4?raw=true)
+	- Source: UCF101/v_WallPushups_g01_c03.avi
+	- [input](/results/ucf101_1/result.mp4?raw=true)
 	- [result](/results/ucf101_1/result.mp4?raw=true)
 
 <p align="center">
@@ -192,7 +192,7 @@ Videos from the UCF101 Human Actions dataset:
 
 - Video 17
 	- Id: ucf101_2
-	- Source: UCF101/v_PlayingGuitar_g20_c03.avi
+	- Source: UCF101/v_PizzaTossing_g05_c01.avi
 	- [input](/results/ucf101_2/result.mp4?raw=true)
 	- [result](/results/ucf101_2/result.mp4?raw=true)
 
@@ -202,7 +202,7 @@ Videos from the UCF101 Human Actions dataset:
 
 - Video 18
 	- Id: ucf101_3
-	- Source: UCF101/v_PlayingGuitar_g20_c03.avi
+	- Source: UCF101/v_BodyWeightSquats_g12_c01.avi
 	- [input](/results/ucf101_3/result.mp4?raw=true)
 	- [result](/results/ucf101_3/result.mp4?raw=true)
 
@@ -213,7 +213,7 @@ Videos from the UCF101 Human Actions dataset:
 
 - Video 19
 	- Id: ucf101_4
-	- Source: UCF101/v_PlayingGuitar_g20_c03.avi
+	- Source: UCF101/v_BodyWeightSquats_g20_c01.avi
 	- [input](/results/ucf101_4/result.mp4?raw=true)
 	- [result](/results/ucf101_4/result.mp4?raw=true)
 
@@ -223,11 +223,65 @@ Videos from the UCF101 Human Actions dataset:
 
 - Video 20
 	- Id: ucf101_5
-	- Source: UCF101/v_PlayingGuitar_g20_c03.avi
+	- Source: ?????
 	- [input](/results/ucf101_5/result.mp4?raw=true)
 	- [result](/results/ucf101_5/result.mp4?raw=true)
 
 <p align="center">
   <img src="/results/ucf101_5/out.gif" width="200" />
 </p>
+
+Videos from the Kinetics dataset:
+
+- Video 21
+	- Id: kinetics1
+	- Source: U8LA_hHPISg_000102_000112.mp4
+	- [input](/results/kinetics1/result.mp4?raw=true)
+	- [result](/results/kinetics1/result.mp4?raw=true)
+
+<p align="center">
+  <img src="/results/kinetics1/out.gif" width="200" />
+</p>
+
+- Video 22
+	- Id: kinetics2
+	- Source: UCF101/v_PlayingGuitar_g20_c03.avi
+	- [input](/results/kinetics2/result.mp4?raw=true)
+	- [result](/results/kinetics2/result.mp4?raw=true)
+
+<p align="center">
+  <img src="/results/kinetics2/out.gif" width="200" />
+</p>
+
+- Video 23
+	- Id: kinetics3
+	- Source: UCF101/v_PlayingGuitar_g20_c03.avi
+	- [input](/results/kinetics3/result.mp4?raw=true)
+	- [result](/results/kinetics3/result.mp4?raw=true)
+
+
+<p align="center">
+  <img src="/results/kinetics3/out.gif" width="200" />
+</p>
+
+- Video 24
+	- Id: kinetics4
+	- Source: UCF101/v_PlayingGuitar_g20_c03.avi
+	- [input](/results/kinetics4/result.mp4?raw=true)
+	- [result](/results/kinetics4/result.mp4?raw=true)
+
+<p align="center">
+  <img src="/results/kinetics4/out.gif" width="200" />
+</p>
+
+- Video 25
+	- Id: kinetics5
+	- Source: UCF101/v_PlayingGuitar_g20_c03.avi
+	- [input](/results/kinetics5/result.mp4?raw=true)
+	- [result](/results/kinetics5/result.mp4?raw=true)
+
+<p align="center">
+  <img src="/results/kinetics5/out.gif" width="200" />
+</p>
+
 
