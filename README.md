@@ -223,7 +223,7 @@ Videos from the UCF101 Human Actions dataset:
 
 - Video 20
 	- Id: ucf101_5
-	- Source: ?????
+	- Source: UCF101/v_BodyWeightSquats_g20_c01.avi
 	- [input](/results/ucf101_5/result.mp4?raw=true)
 	- [result](/results/ucf101_5/result.mp4?raw=true)
 
@@ -245,7 +245,7 @@ Videos from the Kinetics dataset:
 
 - Video 22
 	- Id: kinetics2
-	- Source: UCF101/v_PlayingGuitar_g20_c03.avi
+	- Source: zxsSfO4cHRQ_000000_000010.mp4
 	- [input](/results/kinetics2/result.mp4?raw=true)
 	- [result](/results/kinetics2/result.mp4?raw=true)
 
@@ -255,7 +255,7 @@ Videos from the Kinetics dataset:
 
 - Video 23
 	- Id: kinetics3
-	- Source: UCF101/v_PlayingGuitar_g20_c03.avi
+	- Source: yGA9OkTvvVM_000065_000075.mp4
 	- [input](/results/kinetics3/result.mp4?raw=true)
 	- [result](/results/kinetics3/result.mp4?raw=true)
 
@@ -266,7 +266,7 @@ Videos from the Kinetics dataset:
 
 - Video 24
 	- Id: kinetics4
-	- Source: UCF101/v_PlayingGuitar_g20_c03.avi
+	- Source: xkp3fD8HL68_000000_000010.mp4
 	- [input](/results/kinetics4/result.mp4?raw=true)
 	- [result](/results/kinetics4/result.mp4?raw=true)
 
@@ -276,7 +276,7 @@ Videos from the Kinetics dataset:
 
 - Video 25
 	- Id: kinetics5
-	- Source: UCF101/v_PlayingGuitar_g20_c03.avi
+	- Source: vg9Tg1gihmk_000015_000025.mp4
 	- [input](/results/kinetics5/result.mp4?raw=true)
 	- [result](/results/kinetics5/result.mp4?raw=true)
 
