@@ -34,6 +34,7 @@ YouTube videos:
 	- Source: YouTube
 	- [input](/results/youtube1/footage.mp4?raw=true)
 	- [result](/results/youtube1/out_final.mp4?raw=true)
+	- [result fine-tuned Stable Diffusion + ControlNet + EbSynth](/results/youtube1/sd_lester.mp4?raw=true)
 
 <p align="center">
   <img src="/results/youtube1/out.gif" width="200" />
@@ -138,6 +139,7 @@ Videos from the Fashion Video Dataset of the CV Lab of the University of British
 	- Source: test/91oFLFG8UNS.mp4 
 	- [input](/results/fvd1/footage.mp4?raw=true)
 	- [result](/results/fvd1/out_final.mp4?raw=true)
+	- [result fine-tuned Stable Diffusion + ControlNet + EbSynth](/results/fvd1/sd_lester.mp4?raw=true)
 
 <p align="center">
   <img src="/results/fvd1/out.gif" width="100" />
