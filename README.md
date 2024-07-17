@@ -243,6 +243,7 @@ Videos from the Kinetics dataset:
 	- Source: U8LA_hHPISg_000102_000112.mp4
 	- [input](/results/kinetics1/footage.mp4?raw=true)
 	- [result](/results/kinetics1/out_final.mp4?raw=true)
+	- [result fine-tuned Stable Diffusion + ControlNet + EbSynth](/results/kinetics1/sd_lester.mp4?raw=true)
 
 <p align="center">
   <img src="/results/kinetics1/out.gif" width="200" />
