@@ -54,6 +54,7 @@ YouTube videos:
 	- Source: YouTube
 	- [input](/results/youtube3/footage.mp4?raw=true)
 	- [result](/results/youtube3/out_final.mp4?raw=true)
+	- [result fine-tuned Stable Diffusion + ControlNet + EbSynth](/results/youtube3/sd_lester.mp4?raw=true)
 
 <p align="center">
   <img src="/results/youtube3/out.gif" width="200" />
@@ -94,6 +95,7 @@ YouTube videos:
 	- Source: YouTube
 	- [input](/results/youtube7/footage.mp4?raw=true)
 	- [result](/results/youtube7/out_final.mp4?raw=true)
+	- [result fine-tuned Stable Diffusion + ControlNet + EbSynth](/results/youtube7/sd_lester.mp4?raw=true)
 
 <p align="center">
   <img src="/results/youtube7/out.gif" width="100" />
@@ -272,6 +274,7 @@ Videos from the Kinetics dataset:
 	- Source: xkp3fD8HL68_000000_000010.mp4
 	- [input](/results/kinetics4/footage.mp4?raw=true)
 	- [result](/results/kinetics4/out_final.mp4?raw=true)
+	- [result fine-tuned Stable Diffusion + ControlNet + EbSynth](/results/kinetics4/sd_lester.mp4?raw=true)
 
 <p align="center">
   <img src="/results/kinetics4/out.gif" width="200" />
@@ -282,7 +285,7 @@ Videos from the Kinetics dataset:
 	- Source: vg9Tg1gihmk_000015_000025.mp4
 	- [input](/results/kinetics5/footage.mp4?raw=true)
 	- [result](/results/kinetics5/out_final.mp4?raw=true)
-	- [result fine-tuned Stable Diffusion + ControlNet + EbSynth](/results/youtube3/sd_lester.mp4?raw=true)
+	
 
 <p align="center">
   <img src="/results/kinetics5/out.gif" width="200" />
