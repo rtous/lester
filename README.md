@@ -282,6 +282,7 @@ Videos from the Kinetics dataset:
 	- Source: vg9Tg1gihmk_000015_000025.mp4
 	- [input](/results/kinetics5/footage.mp4?raw=true)
 	- [result](/results/kinetics5/out_final.mp4?raw=true)
+	- [result fine-tuned Stable Diffusion + ControlNet + EbSynth](/results/youtube3/sd_lester.mp4?raw=true)
 
 <p align="center">
   <img src="/results/kinetics5/out.gif" width="200" />
