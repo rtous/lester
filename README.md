@@ -10,6 +10,8 @@ This repository contains data related to the Lester project. The project aims at
   <img src="img/out.gif" width="200" />
 </p>
 
+[paper](https://www.mdpi.com/1999-4893/17/8/330)
+
 
 ## 2 Acknowledgements
 
