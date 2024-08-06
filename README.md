@@ -15,14 +15,17 @@ This repository contains data related to the Lester project. The project aims at
 
 If you find this repository useful for your research, please cite the original publication:
 
-	@misc{rtous2024lester,
-	  title={Lester: Rotoscope Animation Through Video Object Segmentation and Tracking},
-	  author={Ruben Tous},
-	  eprint={2402.09883},
-	  archivePrefix={arXiv},
-	  primaryClass={cs.CV},
-	  url={https://arxiv.org/abs/2402.09883},
-	  year={2024}
+	@Article{a17080330,
+		AUTHOR = {Tous, Ruben},
+		TITLE = {Lester: Rotoscope Animation through Video Object Segmentation and Tracking},
+		JOURNAL = {Algorithms},
+		VOLUME = {17},
+		YEAR = {2024},
+		NUMBER = {8},
+		ARTICLE-NUMBER = {330},
+		URL = {https://www.mdpi.com/1999-4893/17/8/330},
+		ISSN = {1999-4893},
+		DOI = {10.3390/a17080330}
 	}
 
 ## 3. Results
