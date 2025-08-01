@@ -10,9 +10,9 @@ This repository contains data related to the Lester project. The project aims at
   <img src="img/out.gif" width="200" />
 </p>
 
-The editor is based on the method created by Ruben Tous and described in the paper [Lester: Rotoscope Animation Through Video Object Segmentation and Tracking](https://www.mdpi.com/1999-4893/17/8/330). Another repository, [rtous/lester-code](https://github.com/rtous/lester-code) contains the code.
+The editor is based on the method created by Ruben Tous and described in the paper [Lester: Rotoscope Animation Through Video Object Segmentation and Tracking](https://www.mdpi.com/1999-4893/17/8/330). Another repository, [rtous/lester-code](https://github.com/rtous/lester-code) contains a colab notebook with the python code.
 
-NEW: I've relseased a free C++ desktop application [here](https://github.com/rtous/lester-release).
+**NEW**: I've relseased a free C++ desktop application [here](https://github.com/rtous/lester-release).
 
 <div align="center">
   <p>
