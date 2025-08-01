@@ -10,7 +10,16 @@ This repository contains data related to the Lester project. The project aims at
   <img src="img/out.gif" width="200" />
 </p>
 
-[paper](https://www.mdpi.com/1999-4893/17/8/330)
+The editor is based on the method created by Ruben Tous and described in the paper [Lester: Rotoscope Animation Through Video Object Segmentation and Tracking](https://www.mdpi.com/1999-4893/17/8/330).
+
+NEW: I've relseased a free C++ desktop application [here](https://github.com/rtous/lester-release).
+
+<div align="center">
+  <p>
+    <a href="https://github.com/rtous/lester-release" target="_blank">
+      <img width="100%" src="img/banner.png" alt="Lester: Rotoscope animation editor banner"></a>
+  </p>
+</div>
 
 
 ## 2 Acknowledgements
