@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-This repository contains data related to the Lester project. The project aims at developing a sytem capable of  automatically synthetise retro-style 2D animations from videos. Another repository, [rtous/lester-code](https://github.com/rtous/lester-code) contains the code.
+This repository contains data related to the Lester project. The project aims at developing a sytem capable of  automatically synthetise retro-style 2D animations from videos. 
 
 <!--![](/data/test1/result_dual.gif)-->
 
@@ -10,7 +10,7 @@ This repository contains data related to the Lester project. The project aims at
   <img src="img/out.gif" width="200" />
 </p>
 
-The editor is based on the method created by Ruben Tous and described in the paper [Lester: Rotoscope Animation Through Video Object Segmentation and Tracking](https://www.mdpi.com/1999-4893/17/8/330).
+The editor is based on the method created by Ruben Tous and described in the paper [Lester: Rotoscope Animation Through Video Object Segmentation and Tracking](https://www.mdpi.com/1999-4893/17/8/330). Another repository, [rtous/lester-code](https://github.com/rtous/lester-code) contains the code.
 
 NEW: I've relseased a free C++ desktop application [here](https://github.com/rtous/lester-release).
 
