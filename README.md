@@ -23,7 +23,7 @@ This repository contains the official installers for Lester, the rotoscope anima
 
 [MacOS Installer (Apple Silicon)](https://github.com/rtous/lester/releases/download/v0.1.4-alpha/Lester-Installer.dmg)
 
-WARNING: Currently there's a code signing problem and in order to make it work, after installing the application (and before executing it), you need to open a terminal and run:
+TROUBLESHOOTING: If problems with code signing, after installing the application (and before executing it), open a terminal and run:
 
 	cd /Applications; xattr -cr Lester.app
 
