@@ -21,7 +21,7 @@ This repository contains the official installers for Lester, the rotoscope anima
 
 (v0.1.9-alpha. Already usable but not robust and not very user friendly yet.)
 
-[MacOS Installer (Apple Silicon)](https://github.com/rtous/lester/releases/download/v0.1.9-alpha/Lester-Installer.dmg)
+[MacOS Installer (Apple Silicon)](https://github.com/rtous/lester/releases/download/v0.1.10-alpha/Lester-Installer.dmg)
 
 <!--
 TROUBLESHOOTING: If problems with code signing, after installing the application (and before executing it), open a terminal and run:
@@ -29,7 +29,14 @@ TROUBLESHOOTING: If problems with code signing, after installing the application
 	cd /Applications; xattr -cr Lester.app
 -->
 
-Windows Installer (still working on it).
+[Windows Installer (CPU)](https://github.com/rtous/lester/releases/download/v0.1.10-alpha/lester_0_1_10_alpha_windows_CPU.zip)
+
+	- Download
+	- Unzip
+	- Right-click on Lester.exe, select "Properties", At the bottom, you'll see: "This file came from another computer and might be blocked...". Check the box "Unblock". Click "Apply" then "OK"
+	- Double-click the .exe
+
+Windows Installer (GPU): Still working on it
 
 Number of downloads [here](https://api.github.com/repos/rtous/lester/releases)
 
