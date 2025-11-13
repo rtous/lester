@@ -29,7 +29,7 @@ TROUBLESHOOTING: If problems with code signing, after installing the application
 	cd /Applications; xattr -cr Lester.app
 -->
 
-[Windows Installer (CPU)](https://github.com/rtous/lester/releases/download/v0.1.10-alpha/lester_0_1_10_alpha_windows_CPU.zip)
+[Windows Installer (CPU)](https://github.com/rtous/lester/releases/download/v0.1.11-alpha/lester_0_1_11_alpha_windows_CPU.zip)
 
 
 	- Download
