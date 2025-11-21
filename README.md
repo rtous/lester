@@ -9,7 +9,7 @@
 
 ## 1. Introduction
 
-*NOTE: Report techical issues opening and Issue or contacting [Ruben Tous](https://personals.ac.upc.edu/rtous/).*
+*NOTE: Report techical issues [opening an Issue here](https://github.com/rtous/lester/issues/new/choose) or contacting [Ruben Tous](https://personals.ac.upc.edu/rtous/).*
 
 Project page: [https://rtous.github.io/lester/](https://rtous.github.io/lester/)
 
