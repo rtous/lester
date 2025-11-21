@@ -9,8 +9,6 @@
 
 ## 1. Introduction
 
-*NOTE: Report techical issues [opening an Issue here](https://github.com/rtous/lester/issues/new/choose) or contacting [Ruben Tous](https://personals.ac.upc.edu/rtous/).*
-
 Project page: [https://rtous.github.io/lester/](https://rtous.github.io/lester/)
 
 This repository contains the official installers for Lester, the rotoscope animation and video segmentation editor, for macOS and Windows. A free, classic-style desktop editor, built entirely in C++. Download, install, and start creating 2D animations and sprites from reference video shots. Recreate the visual aesthetic of iconic video games from the 80s and 90s, such as Prince of Persia or Another World. The editor can also be used just for pure promptable image or video segmentation. 
@@ -22,6 +20,8 @@ This repository contains the official installers for Lester, the rotoscope anima
 </p>
 
 ## 2 Download and install
+
+*NOTE: Report techical issues [opening an Issue here](https://github.com/rtous/lester/issues/new/choose) or contacting [Ruben Tous](https://personals.ac.upc.edu/rtous/).*
 
 <!--[MacOS Installer (Apple Silicon)](https://github.com/rtous/lester-release/raw/refs/heads/main/Lester-Installer.dmg?download=).-->
 
