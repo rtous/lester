@@ -1,0 +1,31 @@
+I'm going to write a user guide of Lester (https://rtous.github.io/lester/) in markdown plus screenshots (I will provide them). I will describe you the functionality and you genrate the guide. I attack and screenshot of the application to help you understand the information: 
+
+General summary: Using a set of coordinates provided by the user—clicks on the first frame of the reference video—the system identifies regions (masks), for example, a jacket or a hat. The masks are geometrically simplified to smooth irregularities and to give a retro aspect. The masks can be colorized and pixelated. Then, the user can ask the system to automaticall propagate the masks to the rest of video frames. Some options allows the user to add some finishing details (rimligh, pixelation, facial features). More edition capabilities will be added in future versions.
+
+Step by step functionalty: 
+- The user loads a video through the File menu (.mp4) or an image (.jpg or .png). 
+SCREENSHOT
+- A message appears suggesting that the video can be subsampled so it will have less frames and the masks propagation will take less time (it's very costly). If the video has more than 100 frames the message will alert.
+SCREENSHOT
+- After loading the video you can optionally subsample it (reduce the number of frames) by clicking on the "Subsample video" button on the left panel. This will make masks propagation faster but also will accelerate the speed of the resulting animation making it not realistic. To compensate it you will be able to add frames at the and through interpolation but this functionality does not work very well yet. So, do not subsample unless because of your hardware or because the length/complexity of the video the propagation process is too slow.
+SCREENSHOT
+- The central panel shows the selected frame of the video. The user can click somewhere to select a mask (a segment of region of the video). There are two mask selection modes. The default one is click-to-mask. A mask is selected just by clicking once. Clicking again over the same mask deselects it. 
+SCREENSHOT
+A second mode (activated if the users clicks on the + or - radio button) allows the user to select multiple positive or negative points to define a mask (positive belong to the mask, negative do not belong to the mask). Once all the points are placed the user clicks the Mask button to generate the mask. This is useful if a mask is complex or composed by discontinous regions (e.g. visible skin of a character). In theory these masks can also be deselected with a single click if the user changes to click-to-mask mode, but sometimes it may fail. To delete a mask go to the bottom left panel and click the - button.
+SCREENSHOT
+- Once you have all the masks is time to change their color in the bottom left panel (masks list panel). You can use the color picker or select predefined colors from classic palettes through the P button. 
+- On the right panel you can see a preview of the rotoscoped frame. Changing the "Rimlight size" and "pixelation level" sliders on the bottom right panel you can see different finishings. This settings can be modified later again, once you have propagated the masks of the first frame to the subsequent frames.
+SCREENSHOT
+- You can order the stacking order of the masks by clicking on the up/down arrows in the masks list panel. 
+SCREENSHOT
+- Once you have your masks ready, if your video shows a frontal face you can add facial features by clicking the check box in the bottom right panel (Finishing details panel). This will only work if the face is frontal and can be clearly seen. You can change the colors of the facial traits with the Face color and Eyes color color pickers in the bottom right panel (finishing details panel)
+SCREENSHOT
+- Once you have everything setup you can click on the "propagate masks" button on the left panel. It will ask to which frame you want to propagate. It can take some minutes depending on the hardware, the number of frames and the number of masks. This process will also try to propagate the facial traits if you selected it.
+SCREENSHOT
+- Once the frames have been propagated you can see the result on the right panel. You can even play the resulting animation with the playback controls. 
+SCREENSHOT
+- Finally you can save the animation as an .mp4 video or as a set of .png frames. Saving as .png frames will preserve the transparent background and will be the way to go if later you want to create a videogame animation or an animated gif.
+- When saving you will be asked if you want to apply interpolation. This is useful if you first subsampled the video but the functionality is currently not very good. 
+SCREENSHOT
+
+
