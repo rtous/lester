@@ -13,13 +13,11 @@ This guide walks you through the complete workflow.
 
 The first step is to load a video (`.mp4`) or a still image (`.jpg`, `.png`) through the **File** menu.
 
-
-
-![screenshot-load-video](screenshot01.png)
+<!-- ![screenshot-load-video](img_user_guide/screenshot1.png) -->
 
 After loading, Lester may show a warning if the video has more than 100 frames, suggesting subsampling to speed up mask propagation.
 
-![screenshot-subsample-warning](screenshot02.png)
+![screenshot-subsample-warning](img_user_guide/screenshot1.png)
 
 ---
 
@@ -29,7 +27,7 @@ Reduce the number of frames by clicking:
 
 **Left Panel → Subsample video**
 
-![screenshot-subsample-button](screenshot03.png)
+![screenshot-subsample-button](img_user_guide/screenshot2.png)
 
 Subsampling:
 
@@ -48,7 +46,7 @@ This is where you define masks.
 
 ### 3.1 Click-to-Mask (default mode)
 
-![screenshot-click-to-mask](screenshot04.png)
+![screenshot-click-to-mask](img_user_guide/screenshot3.png)
 
 - Click an area once → a mask is created.  
 - Click again on the same mask → it is deselected.
@@ -61,7 +59,7 @@ This mode is ideal for simple, contiguous regions.
 
 Click the **+** or **–** radio buttons to enter multi-point mode.
 
-![screenshot-multipoint-mask](screenshot05.png)
+![screenshot-multipoint-mask](img_user_guide/screenshot4.png)
 
 In this mode:
 
@@ -84,7 +82,7 @@ Use the **Masks List Panel** (bottom-left):
 - Pick custom colors  
 - Or use preset palette colors via the **P** button
 
-![screenshot-mask-colors](screenshot06.png)
+![screenshot-mask-colors](img_user_guide/screenshot5.png)
 
 ### 4.2 Ordering Masks
 
