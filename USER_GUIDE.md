@@ -18,6 +18,7 @@ The first step is to load a video (`.mp4`) or a still image (`.jpg`, `.png`) thr
 After loading, Lester may show a warning if the video has more than 100 frames, suggesting subsampling to speed up mask propagation.
 
 ![screenshot-subsample-warning](img_user_guide/screenshot1.png)
+<img src="img_user_guide/screenshot1.png" width="50%">
 
 ---
 
@@ -90,8 +91,6 @@ Use the **Masks List Panel** (bottom-left):
 
 Adjust stacking order via the **up/down arrows**.
 
-![screenshot-mask-order](screenshot07.png)
-
 ---
 
 ## 5. Previewing and Adjusting the Retro Style
@@ -114,7 +113,8 @@ These settings can be modified before or after propagation.
 If the video shows a frontal, clearly visible face:
 
 
-![screenshot-facial-traits](screenshot09.png)
+<img src="img_user_guide/screenshot_face.png" width="200">
+
 
 Customize:
 
@@ -131,7 +131,7 @@ When everything is set:
 
 **Left Panel → Propagate masks**
 
-![screenshot-propagate-masks](screenshot10.png)
+<img src="img_user_guide/screenshot_propagate.png" width="50%">
 
 Lester will ask up to which frame you want to propagate.
 
