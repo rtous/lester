@@ -48,6 +48,8 @@ This is where you define masks.
 
 ![screenshot-click-to-mask](img_user_guide/screenshot_click2mask_2.png)
 
+The central panel displays the currently selected video frame. If the click-to-mask radio button is selected on the left panel (it's selected by default), clicking on any area lets the user select a mask, which corresponds to a segmented region of the video. Two mask selection modes are available, with the default being click-to-mask. In this mode, a single click selects a mask, and clicking again on the same mask deselects it. Once a mask is created, it also appears in the right panel, where a preview shows how the final rotoscoped frame will look. The bottom panel contains a list of all created masks, allowing the user to edit or delete them.
+
 - Click an area once → a mask is created.  
 - Click again on the same mask → it is deselected.
 
