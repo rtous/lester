@@ -1,9 +1,9 @@
-# Lester – User Guide
+# Lester – User Guide (for version v0.1.11-alpha)
 
 
 ## General functionalty
 
-Lester is a tool for retro-style rotoscoping. Using a small set of user-provided clicks on the first frame of a video, Lester creates simplified, stylized masks (e.g., shirt, pants, skin, hat), colorizes them, applies pixelation/retro finishing, and automatically propagates them across the remaining frames of the video. In the future, tools for manually drawing on the frames will be included.
+Lester is a tool for retro-style rotoscoping. The user clicks on the first frame of the video to select various regions (masks)—for example, a hat, a jacket, or skin. These masks are then geometrically simplified to smooth out irregularities and achieve a retro aesthetic. The user can apply different colors and finishing effects, such as rim lighting or pixelation. Finally, the system can automatically propagate the masks across the remaining video frames on request. No tools for manually drawing over the video frames are currently provided, as this is assumed to be handled with an external tool. However, this functionality is planned for future versions.
 
 This guide walks you through the complete workflow.
 
@@ -46,7 +46,7 @@ This is where you define masks.
 
 ### 3.1 Click-to-Mask (default mode)
 
-![screenshot-click-to-mask](img_user_guide/screenshot3.png)
+![screenshot-click-to-mask](img_user_guide/screenshot_click2mask.png)
 
 - Click an area once → a mask is created.  
 - Click again on the same mask → it is deselected.
