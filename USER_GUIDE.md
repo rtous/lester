@@ -188,13 +188,5 @@ When exporting, Lester will ask whether to apply interpolation:
 - Useful only if you subsampled earlier  
 - Currently experimental
 
----
 
-## 10. Summary of Best Practices
-
-- Avoid subsampling unless necessary  
-- Use multi-point mode for complex masks  
-- Reorder masks to prevent overlap  
-- Enable facial traits only when the face is frontal  
-- Prefer PNG export when transparency matters
 
