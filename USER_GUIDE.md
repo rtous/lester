@@ -1,5 +1,6 @@
 # Lester – User Guide (for version v0.1.11-alpha)
 
+*Thanks to Sam Alcoff for encouraging the addition of a user guide and offering valuable design advice.*
 
 ## General functionalty
 
