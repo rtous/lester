@@ -19,7 +19,7 @@ This repository contains the official installers for Lester, the rotoscope anima
 
 ## Documentation
 
-Following a suggestion from Sam Alcoff, I've added a user guide [here](USER_GUIDE.md)
+[User guide](USER_GUIDE.md)
 
 ## Download and install
 
