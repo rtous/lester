@@ -93,7 +93,7 @@ Use the **Masks List Panel** (bottom-left):
 - Or use preset palette colors via the **P** button
 
 <div align="center">
-  <img src="img_user_guide/screenshot5.png" width="50%">
+  <img src="img_user_guide/screenshot5_2.png" width="50%">
 </div>
 
 ### 4.2 Ordering Masks
