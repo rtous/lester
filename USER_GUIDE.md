@@ -46,9 +46,6 @@ Subsampling:
 
 ## 3. Selecting and Creating Masks
 
-The central panel displays the current frame.  
-This is where you define masks.
-
 ### 3.1 Click-to-Mask (default mode)
 
 The central panel displays the currently selected video frame. If the click-to-mask radio button is selected on the left panel (it's selected by default), clicking on any area lets the user select a mask, which corresponds to a segmented region of the video. Two mask selection modes are available, with the default being click-to-mask. In this mode, a single click selects a mask, and clicking again on the same mask deselects it. Once a mask is created, it also appears in the right panel, where a preview shows how the final rotoscoped frame will look. The bottom panel contains a list of all created masks, allowing the user to edit or delete them.
