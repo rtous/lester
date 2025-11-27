@@ -61,7 +61,7 @@ This mode is ideal for simple, contiguous regions.
 
 Click the **+** or **–** radio buttons to enter multi-point mode.
 
-![screenshot-multipoint-mask](img_user_guide/screenshot4.png)
+![screenshot-multipoint-mask](img_user_guide/screenshot4_2.png)
 
 In this mode:
 
