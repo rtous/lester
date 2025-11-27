@@ -67,7 +67,9 @@ This mode is ideal for simple, contiguous regions.
 
 Click the **+** or **–** radio buttons to enter multi-point mode.
 
-![screenshot-multipoint-mask](img_user_guide/screenshot4_2.png)
+<div align="center">
+  <img src="img_user_guide/screenshot4_2.png" width="50%">
+</div>
 
 In this mode:
 
@@ -90,7 +92,9 @@ Use the **Masks List Panel** (bottom-left):
 - Pick custom colors  
 - Or use preset palette colors via the **P** button
 
-![screenshot-mask-colors](img_user_guide/screenshot5.png)
+<div align="center">
+  <img src="img_user_guide/screenshot5.png" width="50%">
+</div>
 
 ### 4.2 Ordering Masks
 
@@ -117,9 +121,9 @@ These settings can be modified before or after propagation.
 
 If the video shows a frontal, clearly visible face:
 
-
-<img src="img_user_guide/screenshot_face.png" width="200">
-
+<div align="center">
+  <img src="img_user_guide/screenshot_face.png" width="100">
+</div>
 
 Customize:
 
@@ -136,7 +140,10 @@ When everything is set:
 
 **Left Panel → Propagate masks**
 
-<img src="img_user_guide/screenshot_propagate.png" width="50%">
+<div align="center">
+  <img src="img_user_guide/screenshot_propagate.png" width="50%">
+</div>
+
 
 Lester will ask up to which frame you want to propagate.
 
