@@ -111,7 +111,9 @@ In the **Finishing Details** section (bottom-right), you can adjust:
 - Rimlight size  
 - Pixelation level
 
-![screenshot-finishing-details](screenshot08.png)
+<div align="center">
+  <img src="img_user_guide/screenshot_finishing_2.png" width="50%">
+</div>
 
 These settings can be modified before or after propagation.
 
