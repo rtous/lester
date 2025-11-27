@@ -46,7 +46,7 @@ This is where you define masks.
 
 ### 3.1 Click-to-Mask (default mode)
 
-![screenshot-click-to-mask](img_user_guide/screenshot_click2mask.png)
+![screenshot-click-to-mask](img_user_guide/screenshot_click2mask_2.png)
 
 - Click an area once → a mask is created.  
 - Click again on the same mask → it is deselected.
