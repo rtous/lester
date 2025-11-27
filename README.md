@@ -50,7 +50,7 @@ TROUBLESHOOTING: If problems with code signing, after installing the application
 
 Number of downloads [here](https://api.github.com/repos/rtous/lester/releases)
 
-## 3 Screenshots
+## Screenshots
 
 <div align="center">
   <p>
@@ -58,7 +58,7 @@ Number of downloads [here](https://api.github.com/repos/rtous/lester/releases)
   </p>
 </div>
 
-## 4 Research paper
+## Research paper
 
 The editor is based on the method created by Ruben Tous and described in the paper [Lester: Rotoscope Animation Through Video Object Segmentation and Tracking](https://www.mdpi.com/1999-4893/17/8/330). The results reported in the paper can be found [here](RESULTS.md). 
 
