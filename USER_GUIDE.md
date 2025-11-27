@@ -18,7 +18,7 @@ The first step is to load a video (`.mp4`) or a still image (`.jpg`, `.png`) thr
 After loading, Lester may show a warning if the video has more than 100 frames, suggesting subsampling to speed up mask propagation.
 
 <div align="center">
-  <img src="img_user_guide/screenshot1.png" width="50%">
+  <img src="img_user_guide/screenshot1.png" width="30%">
 </div>
 
 ---
@@ -124,7 +124,7 @@ These settings can be modified before or after propagation.
 If the video shows a frontal, clearly visible face:
 
 <div align="center">
-  <img src="img_user_guide/screenshot_face.png" width="100">
+  <img src="img_user_guide/screenshot_face.png" width="200">
 </div>
 
 Customize:
@@ -166,7 +166,9 @@ After propagation:
 - The right panel shows the rotoscoped frames.  
 - Use playback controls to play, loop, or scrub the animation.
 
-![screenshot-playback](screenshot11.png)
+<div align="center">
+  <img src="img_user_guide/screenshot_playback_2.png" width="50%">
+</div>
 
 ---
 
@@ -177,7 +179,9 @@ You may export as:
 - `.mp4` video  
 - `.png` frames (recommended for transparency, games, GIFs)
 
-![screenshot-save-dialog](screenshot12.png)
+<div align="center">
+  <img src="img_user_guide/screenshot_exporting.png" width="50%">
+</div>
 
 When exporting, Lester will ask whether to apply interpolation:
 
